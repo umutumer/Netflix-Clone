@@ -4,6 +4,7 @@ import Home from './Pages/Home';
 import Registration from './Components/Registration';
 import Login from './Components/Login';
 import Detail from './Pages/Detail';
+import Films from './Pages/Films';
 
 function App() {
   return (
@@ -13,7 +14,8 @@ function App() {
       <Route path='/login' element={<Login />}></Route>
       <Route path='/registration' element={<Registration />}></Route>
       <Route path='/home' element={<Home />}></Route>
-      <Route path='detail/:id' element={<Detail />}></Route>
+      <Route path='/detail/:id' element={<Detail />}></Route>
+      <Route path='/films' element={<Films />}></Route>
     </Routes>
     </BrowserRouter>
   );

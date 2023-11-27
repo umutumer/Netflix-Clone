@@ -89,5 +89,63 @@
             "oyuncuKadrosu": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss,...",
             "filmTur": "Aksiyon"
           }
+    ],
+    "diziler":[
+        {
+            "id":31,
+            "diziIsim":"Van Helsing",
+            "diziResim":"https://image.cnnturk.com/i/cnnturk/75/740x416/6006d8b9214ed81c4c025df5.jpg",
+            "diziAciklama":"Komadan uyanan Vanessa,onu Yükseliş denen vampir istilasından koruyan Axel adındaki yalnız askerle tanışır ve kendi sıra dışı güçlerini keşfeder.",
+            "diziOyuncuKadrosu":"Kelly Overton,Jonathan Scarfe,Christopher Heyerdahln,...",
+            "diziTur":"Aksiyon"
+        },
+        {
+            "id":32,
+            "diziIsim":"ShadowHunters",
+            "diziResim":"https://image.cnnturk.com/i/cnnturk/75/740x416/6006d8b9214ed81c4c025df5.jpg",
+            "diziAciklama":"Sıradan bir genç kız olan Clary Fray'in hayatı,melek kanı taşıyan iblis avcılarının soyundan geldiğini öğrenince tepetaklak olur.",
+            "diziOyuncuKadrosu":"Katherine McNamara,Dominic Sherwood,Alberto Rosende,...",
+            "diziTur":"Bilim Kurgu"
+        },
+        {
+            "id":33,
+            "diziIsim":"Elite",
+            "diziResim":"https://image.cnnturk.com/i/cnnturk/75/740x416/6006d8b9214ed81c4c025df5.jpg",
+            "diziAciklama":"Okula geri dönen Ari,Mencia ve Partick,ailelerinin yüklerini sırtlanmaya kararlıdır.Isa'nın yeni kulübü büyük bir geceyle açılış yapar.",
+            "diziOyuncuKadrosu":"Itzan Escamilla,Miguel Bernardeu,Danna Paola,...",
+            "diziTur":"Gençlik"
+        },
+        {
+            "id":34,
+            "diziIsim":"Riverdale",
+            "diziResim":"https://image.cnnturk.com/i/cnnturk/75/740x416/6006d8b9214ed81c4c025df5.jpg",
+            "diziAciklama":"Cinsellik,romantizm,okul ve aile etrafındaki tehlikeli sularda yolunu bulmaya çalışan genç Archie ve dostları,Riverdale'de karanlık bir gizemin ortasına düşer.",
+            "diziOyuncuKadrosu":"K.J.Apa,Lili Reinhart,Camila Mendes,...",
+            "diziTur":"Gençlik"
+        },
+        {
+            "id":35,
+            "diziIsim":"The Umbrella Acedemy",
+            "diziResim":"https://image.cnnturk.com/i/cnnturk/75/740x416/6006d8b9214ed81c4c025df5.jpg",
+            "diziAciklama":"Babalarının ölümüyle yeniden bir araya gelen sıra dışı yeteneklere sahip kardeşler,şaşırtıcı aile sırlarını ve insanlığı bekleyen yakın bir tehdidi açığa çıkarır.",
+            "diziOyuncuKadrosu":"Elliot Page,Tom Hopper,David Castaneda,...",
+            "diziTur":"Bilim Kurgu"
+        },
+        {
+            "id":36,
+            "diziIsim":"Lupin",
+            "diziResim":"https://image.cnnturk.com/i/cnnturk/75/740x416/6006d8b9214ed81c4c025df5.jpg",
+            "diziAciklama":"Arsen Lüpen'in maceralarından esinlenen kibar hırsız Assane Diop, varlıklı bir aile yüzünden haksızlığa uğrayan babasının intikamını almak için kolları sıvar.",
+            "diziOyuncuKadrosu":"Omar Sy,Ludivine Sagnier,Clotilde Hesme,...",
+            "diziTur":"Aksiyon"
+        },
+        {
+            "id":37,
+            "diziIsim":"The Walking Dead",
+            "diziResim":"https://image.cnnturk.com/i/cnnturk/75/740x416/6006d8b9214ed81c4c025df5.jpg",
+            "diziAciklama":"Zombi kıyametinin ardından hayatta kalanlar,birlikte verdikleri ölüm kalım mücadelesinde insanlığa karşı duydukları umuda tutunur,",
+            "diziOyuncuKadrosu":"Andrew Lincoin,Steven Yeun,Norman Reedus,...",
+            "diziTur":"Aksiyon"
+        }
     ]
 }
