@@ -10,7 +10,7 @@
         },
         {
             "id":2,
-            "filmIsim":"Çakallarla Dans 6",
+            "filmIsim":"Cakallarla Dans 6",
             "filmResim":"https://tr.web.img2.acsta.net/r_1280_720/img/1c/07/1c079eeebc0a0afe37850b1e7b533ef0.jpg",
             "filmAciklama":"Kaos Adasında'ki bir düğün için kendilerine hem davetiye hem de uçak bileti gönderilen ekip,davetin gerçek nedenini anladığında kendilerini komik bir maceranın içinde bulur.",
             "oyuncuKadrosu":"Şevket Çoruh,İlker Ayrık,Timur Acar,...",
@@ -48,9 +48,9 @@
         },
         {
             "id":6,
-            "filmIsim":"Jumper",
+            "filmIsim":"Atlayıcı",
             "filmResim":"https://www.justwatch.com/images/backdrop/175498934/s640/atlayici/atlayici",
-            "filmAciklama":"Genç bir adam istediği yere ışınlanabilme yeteneği olduğunu keşfeder.Ama attığı dünya turuyla güçlü bir düşmanın dşkkatini üzerine çeker.",
+            "filmAciklama":"Genç bir adam istediği yere ışınlanabilme yeteneği olduğunu keşfeder.Ama attığı dünya turuyla güçlü bir düşmanın dikkatini üzerine çeker.",
             "oyuncuKadrosu":"Hayden Christensen,Jamie Bell,Samuel L. Jackson,...",
             "filmTur":"Bilim Kurgu"
 
@@ -76,6 +76,7 @@
           {
             "id": 9,
             "filmIsim": "Kara şövalye",
+            "filmResim":"https://www.cumhuriyet.com.tr/Archive/2022/5/29/170322115-kara-sovalye.jpg",
             "filmAciklama": "Batman, Gotham şehrini kaostan kurtarmak için Joker'in çılgın planlarına karşı mücadele eder.",
             "oyuncuKadrosu": "Christian Bale, Heath Ledger, Aaron Eckhart,...",
             "filmTur": "Aksiyon"
@@ -83,6 +84,7 @@
           {
             "id": 10,
             "filmIsim": "Matrix",
+            "filmResim": "https://cdnuploads.aa.com.tr/uploads/Contents/2021/12/09/thumbs_b_c_a07e9bf54f0ea0f29801fcb2362e95dc.jpg?v=095032",
             "filmAciklama": "Neo, gerçek dünyada insanların makineler tarafından esir alındığını keşfeder ve isyanın lideri olmaya karar verir.",
             "oyuncuKadrosu": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss,...",
             "filmTur": "Aksiyon"

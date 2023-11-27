@@ -28,7 +28,7 @@ const Navbar = () => {
             <Link className='mr-5'>Diziler</Link>
             <Link>Filmler</Link>
         </div>
-        <Link className='text-xl mr-2'>Çıkış Yap</Link>
+        <Link to='/' className='text-xl mr-2'>Çıkış Yap</Link>
     </nav>
   )
 }

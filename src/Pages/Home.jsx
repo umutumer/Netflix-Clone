@@ -7,6 +7,7 @@ import { FaPlay } from "react-icons/fa";
 import { useDispatch, useSelector } from "react-redux";
 import { fetchData } from "../Redux/Action";
 import { IoBookmarkSharp } from "react-icons/io5";
+import { Link } from "react-router-dom";
 
 const Home = () => {
   const dispatch = useDispatch();
@@ -34,11 +35,11 @@ const Home = () => {
           <img src={LuciTitle} alt="Lucifer" className="w-96 mb-5" />
           <div className="flex ">
             <button className="flex w-24  m-2 text-lg text-center p-2 bg-white text-black items-center justify-center rounded">
-              <FaPlay />
+              <FaPlay className="mr-2" />
               Oynat
             </button>
             <button className="flex w-52 m-2 text-lg text-center p-2 bg-gray-200 items-center justify-center bg-opacity-30 rounded">
-              <GrCircleInformation />
+              <GrCircleInformation className="mr-2" />
               Daha Fazla Bilgi
             </button>
           </div>
@@ -50,14 +51,16 @@ const Home = () => {
       <h3 className="text-4xl m-2 font-semibold">
         Haftanın Top 10 Film Listesi
       </h3>
-      <div className="flex ">
+      <div className="flex h-[300px] items-center ">
         {top10.map((film, index) => (
-          <div key={index} className="relative mx-2 my-5 bg-black">
+          <div key={index} className="relative mx-2 my-5 bg-black h-[170px]">
+            <Link to={`/detail/${film.id}`}>
             <img
               src={film.filmResim}
               alt="resim"
-              className="w-[300px] h-[170px] opacity-70"
+              className="w-[300px] h-[170px] opacity-70 hover:w-[310px] hover:h-[180px] duration-300 object-cover"
             />
+            </Link>
             <p className="absolute bottom-3 left-1 text-xl">{film.filmIsim}</p>
             <IoBookmarkSharp className="absolute -top-1 right-0 text-5xl text-red-600" />
             <p className="absolute top-1 right-4">10</p>
@@ -65,14 +68,16 @@ const Home = () => {
         ))}
       </div>
       <h3 className="text-4xl m-2 font-semibold">Komedi Film Listesi</h3>
-      <div className="flex">
+      <div className="flex h-[300px] items-center ">
         {comedy.map((komedi, index) => (
           <div key={index} className="relative mx-2 my-5 bg-black">
+            <Link to={`/detail/${komedi.id}`}>
             <img
               src={komedi.filmResim}
               alt="resim"
-              className="w-[300px] h-[170px] opacity-70"
+              className="w-[300px] h-[170px] opacity-70 hover:w-[320px] hover:h-[190px] duration-300 object-cover"
             />
+            </Link>
             <p className="absolute bottom-3 left-1 text-xl">{komedi.filmIsim}</p>
             {komedi.top10 && (
               <div>
@@ -84,14 +89,16 @@ const Home = () => {
         ))}
       </div>
       <h3 className="text-4xl m-2 font-semibold">Bilim Kurgu Film Listesi</h3>
-      <div className="flex">
+      <div className="flex h-[300px] items-center ">
         {scienceFiction.map((bilimKurgu, index) => (
           <div key={index} className="relative mx-2 my-5 bg-black">
+            <Link to={`/detail/${bilimKurgu.id}`}>
             <img
               src={bilimKurgu.filmResim}
               alt="resim"
-              className="w-[300px] h-[170px] opacity-70"
+              className="w-[300px] h-[170px] opacity-70 hover:w-[320px] hover:h-[190px] duration-300 object-cover"
             />
+            </Link>
             <p className="absolute bottom-3 left-1 text-xl">{bilimKurgu.filmIsim}</p>
             {bilimKurgu.top10 && (
               <div>
