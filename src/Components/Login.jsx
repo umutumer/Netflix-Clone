@@ -78,16 +78,6 @@ const Login = () => {
             </Link>
           </div>
         </div>
-        <div className='w-[90%]'>
-          <p className='text-gray-400'>
-            Netflix'e katılmak ister misiniz?
-            <span className='text-lg text-gray-300'>
-              <Link to='/registration' className='hover:underline'>
-                Şimdi kaydolun.
-              </Link>
-            </span>
-          </p>
-        </div>
       </form>
     </div>
   );

@@ -92,7 +92,7 @@
     ],
     "diziler":[
         {
-            "id":31,
+            "id":11,
             "diziIsim":"Van Helsing",
             "diziResim":"https://image.cnnturk.com/i/cnnturk/75/740x416/6006d8b9214ed81c4c025df5.jpg",
             "diziAciklama":"Komadan uyanan Vanessa,onu Yükseliş denen vampir istilasından koruyan Axel adındaki yalnız askerle tanışır ve kendi sıra dışı güçlerini keşfeder.",
@@ -100,7 +100,7 @@
             "diziTur":"Aksiyon"
         },
         {
-            "id":32,
+            "id":12,
             "diziIsim":"ShadowHunters",
             "diziResim":"https://cdn1.edgedatg.com/aws/v2/abcf/Shadowhunters/showimages/a3f6a29370e8727be1faaef0ec81eeea/1200x627-Q80_a3f6a29370e8727be1faaef0ec81eeea.jpg",
             "diziAciklama":"Sıradan bir genç kız olan Clary Fray'in hayatı,melek kanı taşıyan iblis avcılarının soyundan geldiğini öğrenince tepetaklak olur.",
@@ -108,7 +108,7 @@
             "diziTur":"Bilim Kurgu"
         },
         {
-            "id":33,
+            "id":13,
             "diziIsim":"Elite",
             "diziResim":"https://image.hurimg.com/i/hurriyet/75/1200x675/5f580e6ab699de24d88b4f78.jpg",
             "diziAciklama":"Okula geri dönen Ari,Mencia ve Partick,ailelerinin yüklerini sırtlanmaya kararlıdır.Isa'nın yeni kulübü büyük bir geceyle açılış yapar.",
@@ -117,7 +117,7 @@
             "top10":true
         },
         {
-            "id":34,
+            "id":14,
             "diziIsim":"Riverdale",
             "diziResim":"https://i0.wp.com/ermesverona.it/wp-content/uploads/2019/03/riverdale.jpg?fit=696%2C430&ssl=1",
             "diziAciklama":"Cinsellik,romantizm,okul ve aile etrafındaki tehlikeli sularda yolunu bulmaya çalışan genç Archie ve dostları,Riverdale'de karanlık bir gizemin ortasına düşer.",
@@ -125,7 +125,7 @@
             "diziTur":"Gençlik"
         },
         {
-            "id":35,
+            "id":15,
             "diziIsim":"The Umbrella Acedemy",
             "diziResim":"https://m.media-amazon.com/images/I/91LnmqN5NLL._AC_UF1000,1000_QL80_.jpg",
             "diziAciklama":"Babalarının ölümüyle yeniden bir araya gelen sıra dışı yeteneklere sahip kardeşler,şaşırtıcı aile sırlarını ve insanlığı bekleyen yakın bir tehdidi açığa çıkarır.",
@@ -133,7 +133,7 @@
             "diziTur":"Bilim Kurgu"
         },
         {
-            "id":36,
+            "id":16,
             "diziIsim":"Lupin",
             "diziResim":"https://22dakika.org/wp-content/uploads/2021/01/lupin-lede.jpg",
             "diziAciklama":"Arsen Lüpen'in maceralarından esinlenen kibar hırsız Assane Diop, varlıklı bir aile yüzünden haksızlığa uğrayan babasının intikamını almak için kolları sıvar.",
@@ -142,7 +142,7 @@
             "top10":true
         },
         {
-            "id":37,
+            "id":17,
             "diziIsim":"The Walking Dead",
             "diziResim":"https://ntvb.tmsimg.com/assets/p8282918_b_h8_bn.jpg?w=1280&h=720",
             "diziAciklama":"Zombi kıyametinin ardından hayatta kalanlar,birlikte verdikleri ölüm kalım mücadelesinde insanlığa karşı duydukları umuda tutunur.",
@@ -151,7 +151,7 @@
             "top10":true
         },
         {
-            "id":38,
+            "id":18,
             "diziIsim":"Gossip Girl",
             "diziResim":"https://centralrecorder.org/wp-content/uploads/2018/10/gossip-girl-475x267.jpg",
             "diziAciklama":"Manhattan’da zengin ve ayrıcalıklı bir grup kolejli, her şeyden paçayı sıyırmaktadır. Ancak, kimliği belirsiz bir blog yazarı, onların her adımlarını takip eder.",
@@ -159,7 +159,7 @@
             "diziTur":"Gençlik"
         },
         {
-            "id":39,
+            "id":19,
             "diziIsim":"Narcos",
             "diziResim":"https://i.sozcucdn.com/wp-content/uploads/2017/09/basliksiz-1-214.jpg?w=1200&h=675&mode=crop&scale=both",
             "diziAciklama":"Bu gangster dizisinde, Kolombiya'nın şiddet dolu ve güçlü uyuşturucu kartellerinin gerçek hikayesini izleyeceksiniz.",
@@ -167,7 +167,7 @@
             "diziTur":"Aksiyon"
         },
         {
-            "id":40,
+            "id":20,
             "diziIsim":"Lucifer",
             "diziResim":"https://cdn.kayiprihtim.com/wp-content/uploads/2020/08/lucifer-5-sezon-netflix-yayinda-izle.jpeg",
             "diziAciklama":"Cehennemin Efendisi olmaktan sıkılan Lucifer, Los Angeles’ın ihtişamlı ve ışıltılı deliliği uğruna hâkimiyetini sürdüğü cehennemi terk edip bu şehirde 'Lux' adında bir mekân açıp fani bir yaşam sürmek ister. Fakat kardeşi Amenadiel ve babası onu rahat bırakmaz. Yardımcısı Maze ile beraber geldiği Dünya'da tanıştığı Dedektif Chloe Decker ile birlikte çalışarak suçluları yakalar ve bir yandan da kendi ailevi problemleri ile uğraşır.",
@@ -175,7 +175,7 @@
             "diziTur":"Aksiyon"
         },
         {
-            "id":41,
+            "id":21,
             "diziIsim":"Yaratılan",
             "diziResim":"https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQFyQd06rOHWJWDB0IBKEeedzDb-51KSA1Ahnmy77ggApElq3dmjQBqJbQ35tcJFnGKqbjJ8InPUp6L3Zg5x3gYQOS54lx6pSLgn.jpg?r=917",
             "diziAciklama":"Osmanlı’nın son dönemlerinde geçen bu destansı hikâyede, dahilik ve delilik arasındaki bir hekimle tanışan hırslı bir tıp talebesi, yasaklı ve çok riskli bir deneye kalkışır.",
@@ -184,7 +184,7 @@
             "top10":true
         },
         {
-            "id":42,
+            "id":22,
             "diziIsim":"V Wars",
             "diziResim":"https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABTN3Iw6LJ2EJ3Ou6myz5Mty4P4Uvb-0lpxMCeamPtSwUotc5pUVEsB5HhdnZt3FWnxwIYNHTBu-B7dOoacoLMehKBLnlYs8DAOyU.jpg?r=456",
             "diziAciklama":"Kurbanlarını kan emen yaratıklara dönüştüren ve hızla yayılan bir hastalık, insanlığın geleceği için verilen savaşta iki yakın arkadaşı birbirine düşürür.",
