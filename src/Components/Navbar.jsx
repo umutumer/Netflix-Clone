@@ -31,7 +31,7 @@ const Navbar = () => {
             <img src={Logo} alt="Logo" className='w-32' />
         </Link>
         <div className='flex text-xl'>
-            <Link className='mr-5'>Diziler</Link>
+            <Link to='/movies' className='mr-5'>Diziler</Link>
             <Link to='/films'>Filmler</Link>
         </div>
        <div className='relative flex items-center mr-6 justify-center'>

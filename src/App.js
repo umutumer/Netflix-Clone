@@ -3,8 +3,10 @@ import './App.css';
 import Home from './Pages/Home';
 import Registration from './Components/Registration';
 import Login from './Components/Login';
-import Detail from './Pages/Detail';
+import FilmDetail from './Pages/FilmDetail';
+import MovieDetail from './Pages/MovieDetail';
 import Films from './Pages/Films';
+import Movies from './Pages/Movies';
 
 function App() {
   return (
@@ -14,8 +16,10 @@ function App() {
       <Route path='/login' element={<Login />}></Route>
       <Route path='/registration' element={<Registration />}></Route>
       <Route path='/home' element={<Home />}></Route>
-      <Route path='/detail/:id' element={<Detail />}></Route>
+      <Route path='/film/detail/:id' element={<FilmDetail />}></Route>
+      <Route path='/movie/detail/:id' element={<MovieDetail />}></Route>
       <Route path='/films' element={<Films />}></Route>
+      <Route path='/movies' element={<Movies />}></Route>
     </Routes>
     </BrowserRouter>
   );

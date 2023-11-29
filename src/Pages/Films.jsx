@@ -54,7 +54,7 @@ const Home = () => {
       <div className="flex h-[300px] items-center ">
         {top10.map((film, index) => (
           <div key={index} className="relative mx-2 my-5 bg-black h-[170px]">
-            <Link to={`/detail/${film.id}`}>
+            <Link to={`/film/detail/${film.id}`}>
             <img
               src={film.filmResim}
               alt="resim"
@@ -71,7 +71,7 @@ const Home = () => {
       <div className="flex h-[300px] items-center ">
         {comedy.map((komedi, index) => (
           <div key={index} className="relative mx-2 my-5 bg-black">
-            <Link to={`/detail/${komedi.id}`}>
+            <Link to={`/film/detail/${komedi.id}`}>
             <img
               src={komedi.filmResim}
               alt="resim"
@@ -92,7 +92,7 @@ const Home = () => {
       <div className="flex h-[300px] items-center ">
         {scienceFiction.map((bilimKurgu, index) => (
           <div key={index} className="relative mx-2 my-5 bg-black">
-            <Link to={`/detail/${bilimKurgu.id}`}>
+            <Link to={`/film/detail/${bilimKurgu.id}`}>
             <img
               src={bilimKurgu.filmResim}
               alt="resim"
